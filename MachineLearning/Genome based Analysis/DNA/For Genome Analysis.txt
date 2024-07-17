@@ -1,0 +1,17 @@
+DOID 10747 - Lymphoid Leukemia
+DOID 1037 - Lympoblastic Leukemia
+DOID 1240 - Leukemia
+DOID 2531 - Hematologic Cancer
+DOID 0060083 - Immune System Cancer
+
+DOID:4 - Ovarian Disease
+DOID:7 - Disease of Anatomical ...
+DOID:150 - Disease of mental Health
+DOID:0014667 - Disease of Metabolism
+DOID:863 - Nervous System
+
+
+
+
+in console:
+C:Users\DNA\DNA> python manage.py runserver
